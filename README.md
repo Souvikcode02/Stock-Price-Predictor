@@ -45,9 +45,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 - Create a new branch.
 - Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Disclaimer**: This project is for educational purposes only and should not be used for actual financial decisions. Always consult a financial advisor before making investment decisions.
